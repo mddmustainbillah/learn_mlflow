@@ -29,3 +29,15 @@ if __name__=="__main__":
     
     # delete registered model
     client.delete_registered_model(name=model_name)
+
+       # adding description to registired model.
+    client.update_registered_model(name=model_name, description="This is a test model")
+
+    # adding tags to registired model.
+    client.set_registered_model_tag(name=model_name, key="tag1", value="value1")
+
+    # adding description to model version.
+    client.update_model_version(name=model_name, version=1, description="This is a test model version")
+
+    # adding tags to model version.
+    client.set_model_version_tag(name=model_name, version=1, key="tag1", value="value1")
