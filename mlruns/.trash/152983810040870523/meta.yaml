@@ -1,0 +1,9 @@
+artifact_location: /Users/macbookpro/Resources/mlflow/testing_mlflow1_artifacts
+creation_time: 1704955655393
+experiment_id: '152983810040870523'
+last_update_time: 1704956033000
+lifecycle_stage: deleted
+name: testing_mlflow1
+tags:
+  env: dev
+  version: 1.0.0

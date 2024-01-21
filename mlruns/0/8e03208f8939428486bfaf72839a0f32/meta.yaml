@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/macbookpro/Resources/mlflow/mlruns/0/8e03208f8939428486bfaf72839a0f32/artifacts
+deleted_time: 1704952035654
+end_time: 1704951983381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8e03208f8939428486bfaf72839a0f32
+run_name: angry-ray-950
+run_uuid: 8e03208f8939428486bfaf72839a0f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704951983367
+status: 3
+tags: []
+user_id: macbookpro

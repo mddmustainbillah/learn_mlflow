@@ -1,0 +1,15 @@
+artifact_uri: /Users/macbookpro/Resources/mlflow/nested_run_artifacts/f78ca83b4e4a4ba8a79a79e26b311e6c/artifacts
+end_time: 1705470679767
+entry_point_name: ''
+experiment_id: '953075191027705103'
+lifecycle_stage: active
+run_id: f78ca83b4e4a4ba8a79a79e26b311e6c
+run_name: child2
+run_uuid: f78ca83b4e4a4ba8a79a79e26b311e6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705470679747
+status: 3
+tags: []
+user_id: macbookpro

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbookpro/Resources/mlflow/mlruns/0/17fc23c8861b4052bb38bb7c5eef9ebc/artifacts
+end_time: 1704952948781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17fc23c8861b4052bb38bb7c5eef9ebc
+run_name: mlflow_runs
+run_uuid: 17fc23c8861b4052bb38bb7c5eef9ebc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704952948768
+status: 3
+tags: []
+user_id: macbookpro

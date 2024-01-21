@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/macbookpro/Resources/mlflow/mlruns/0/3a95e3b8d7824fd88d5bdf388a89d365/artifacts
+deleted_time: 1704952035654
+end_time: 1704952007596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3a95e3b8d7824fd88d5bdf388a89d365
+run_name: rumbling-conch-9
+run_uuid: 3a95e3b8d7824fd88d5bdf388a89d365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704952007582
+status: 3
+tags: []
+user_id: macbookpro

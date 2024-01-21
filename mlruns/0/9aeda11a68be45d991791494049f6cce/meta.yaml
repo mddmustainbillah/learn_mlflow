@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbookpro/Resources/mlflow/mlruns/0/9aeda11a68be45d991791494049f6cce/artifacts
+end_time: 1704951949491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9aeda11a68be45d991791494049f6cce
+run_name: enchanting-shrew-411
+run_uuid: 9aeda11a68be45d991791494049f6cce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704951949478
+status: 3
+tags: []
+user_id: macbookpro

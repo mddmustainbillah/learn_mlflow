@@ -1,0 +1,15 @@
+artifact_uri: /Users/macbookpro/Resources/mlflow/Serving_multiple_models/8ae08807318b4fc189ec577a0fb226e2/artifacts
+end_time: 1705814520156
+entry_point_name: ''
+experiment_id: '140237122213799187'
+lifecycle_stage: active
+run_id: 8ae08807318b4fc189ec577a0fb226e2
+run_name: multiple_models
+run_uuid: 8ae08807318b4fc189ec577a0fb226e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705814518102
+status: 3
+tags: []
+user_id: macbookpro
