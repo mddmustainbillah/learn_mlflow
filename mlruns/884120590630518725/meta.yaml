@@ -1,0 +1,6 @@
+artifact_location: /Users/macbookpro/Resources/mlflow/model_registry_artifacts
+creation_time: 1705816045375
+experiment_id: '884120590630518725'
+last_update_time: 1705816045375
+lifecycle_stage: active
+name: model_registry

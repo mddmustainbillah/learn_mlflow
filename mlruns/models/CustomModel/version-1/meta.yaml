@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1705817483739
+current_stage: None
+description: null
+last_updated_timestamp: 1705817483739
+name: CustomModel
+run_id: 8d119adfdcb442beb9a0ba852260addb
+run_link: null
+source: /Users/macbookpro/Resources/mlflow/model_registry_artifacts/8d119adfdcb442beb9a0ba852260addb/artifacts/custom_model
+status: READY
+status_message: null
+storage_location: /Users/macbookpro/Resources/mlflow/model_registry_artifacts/8d119adfdcb442beb9a0ba852260addb/artifacts/custom_model
+user_id: null
+version: 1
